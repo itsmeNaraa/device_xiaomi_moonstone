@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_moonstone.mk
+    $(LOCAL_DIR)/bliss_moonstone.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_moonstone-user \
-    lineage_moonstone-userdebug \
-    lineage_moonstone-eng
+    bliss_moonstone-user \
+    bliss_moonstone-userdebug \
+    bliss_moonstone-eng
