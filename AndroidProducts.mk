@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/aosp_moonstone.mk
+    $(LOCAL_DIR)/arrow_moonstone.mk
 
 COMMON_LUNCH_CHOICES := \
-    aosp_moonstone-user \
-    aosp_moonstone-userdebug \
-    aosp_moonstone-eng
+    arrow_moonstone-user \
+    arrow_moonstone-userdebug \
+    arrow_moonstone-eng
